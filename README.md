@@ -6,49 +6,72 @@ AI Engineer in Progress | Machine Learning • Deep Learning • NLP • LLMs
 
 ---
 
-### About Me
+## About Me
 
-I am an aspiring AI Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, and Natural Language Processing.
+I am an aspiring **AI Engineer** passionate about building intelligent systems using **Machine Learning, Deep Learning, and Natural Language Processing**.
 
-I completed an Artificial Intelligence training program at Arfa Karim Technology Incubator and developed a strong foundation in Python, NumPy, and AI fundamentals.
+I completed an **Artificial Intelligence training program at Arfa Karim Technology Incubator**, where I developed a strong foundation in **Python, NumPy, data analysis, and AI fundamentals**.
 
-Currently I am following an advanced roadmap focused on Machine Learning, Deep Learning architectures, NLP systems, and Large Language Models.
+Currently, I am following a **structured and advanced roadmap** to master:
+
+• Machine Learning  
+• Deep Learning Architectures  
+• Natural Language Processing  
+• Large Language Models  
+
+My focus is on **building real-world AI projects**, strengthening mathematical foundations for machine learning, and continuously improving my skills as an AI engineer.
 
 ---
 
-### AI Learning Path
+## AI Learning Path
 
-My learning journey follows a structured progression:
+My AI journey follows a structured progression:
 
 Machine Learning  
 Deep Learning  
 Natural Language Processing  
 Large Language Models  
 
+I believe structured learning combined with **hands-on projects and experimentation** is the most effective way to master Artificial Intelligence.
+
 ---
 
-### Tech Stack
+## Tech Stack
+
+Languages & Tools
 
 Python  
 NumPy  
 Pandas  
-Machine Learning  
-Deep Learning  
-NLP  
+Matplotlib  
+
+Machine Learning
+
+Scikit-learn  
+Feature Engineering  
+Model Evaluation  
+
+Deep Learning & AI
+
+TensorFlow (learning)  
+PyTorch (learning)  
+Neural Networks  
+Natural Language Processing  
 
 ---
 
-### Current Focus
+## Current Focus
 
-Building strong foundations in:
+Currently strengthening my foundation in:
 
-• Data analysis  
-• machine learning algorithms  
-• mathematical foundations for AI  
+• Data analysis and preprocessing  
+• Machine learning algorithms  
+• Mathematical foundations for AI  
+• Experimenting with ML models and datasets  
 
 ---
 
-### Projects
+## Projects
 
 I am actively building projects in:
 
@@ -56,4 +79,30 @@ I am actively building projects in:
 • Machine learning models  
 • AI applications  
 
-More projects coming soon 🚀
+More AI projects and experiments coming soon 🚀
+
+---
+
+## Goals
+
+My long-term goals include:
+
+• Building impactful AI applications  
+• Contributing to AI research and open-source projects  
+• Developing intelligent systems that solve real-world problems  
+
+---
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/codewithhanzlah
+
+---
+
+## GitHub Stats
+
+![Hanzlah GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithhanzlah&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+---
